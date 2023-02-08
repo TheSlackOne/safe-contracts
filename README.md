@@ -20,3 +20,6 @@ There are two main phases:
 - **Dashboard**: A Web Service that provides a Dashbord.
 - **Dashboard and Reporting**: The system should provide a dashboard or reporting mechanism to give developers, stakeholders, and security teams visibility into the security of their smart contracts. The dashboard should display information such as the number of vulnerabilities, severity, and track other relevants.
 - **Smart Contract Monitor**: The system should continuously monitor the smart contract for new vulnerabilities and provide updated remediation suggestions as necessary. This can be done by regularly scanning the smart contract code.
+
+## dApp
+Parcially a dApp version of this platform might be explored as _experimental_.
